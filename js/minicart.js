@@ -1503,9 +1503,9 @@ exports.times = function(a, b){
   return Number(a) * Number(b);
 };
 
-/**
+*
  * Divide `a` by `b`.
- */
+ 
 
 exports.divided_by = function(a, b){
   return Number(a) / Number(b);
